@@ -1,0 +1,21 @@
+A feladat megoldása során a HTML fájlt ne módosítsa! 
+A CSS fájlban megadott meghatározásokat nem törölheti ki.
+Az eredményhez szükséges a meglévő kijelölők bővítése és újak felvétele. 
+
+A teljes lap háttészíne legyen: lightgrey;
+
+Betűméretek:
+ - Oklevél szövege az aktuális betűméret háromszorosa (relatív)
+ - paragrafusok esetén az aktuális betűméret kétszerese (relatív)
+ - a név esetén larger
+
+Figyeljen a következőkre!
+ - az oklevél 60%-os szélességű és 10cm magas legyen;
+ - vízszintesen középre igazított az oklevél;
+ - a belső rész háttérszíne: lightgoldenrodyellow;
+ - a szöveg középre igazított.
+
+Ismerkedjen a 
+ - border-image-slice
+ - border-image-width
+tulajdonságokkal!
